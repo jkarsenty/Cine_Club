@@ -12,4 +12,4 @@ The list of the movies is saved into a json file (no need to a database because 
 
 The App looks like that :  
 
-<img src="https://github.com/jkarsenty/Cine_Club/blob/master/user_interface.jpg">
+<img src="https://github.com/jkarsenty/Cine_Club/blob/master/user_interface.png">
